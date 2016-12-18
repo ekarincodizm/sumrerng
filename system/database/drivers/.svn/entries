@@ -1,0 +1,119 @@
+10
+
+dir
+0
+file:///C:/repository_chemtrust/sumrerng/system/database/drivers
+file:///C:/repository_chemtrust
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+049daaa7-ad44-504f-9c02-04fd02749403
+
+cubrid
+dir
+
+
+
+add
+
+ibase
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+mssql
+dir
+
+
+
+add
+
+mysql
+dir
+
+
+
+add
+
+mysqli
+dir
+
+
+
+add
+
+oci8
+dir
+
+
+
+add
+
+odbc
+dir
+
+
+
+add
+
+pdo
+dir
+
+
+
+add
+
+postgre
+dir
+
+
+
+add
+
+sqlite
+dir
+
+
+
+add
+
+sqlite3
+dir
+
+
+
+add
+
+sqlsrv
+dir
+
+
+
+add
+

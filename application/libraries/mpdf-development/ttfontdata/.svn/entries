@@ -1,0 +1,623 @@
+10
+
+dir
+0
+file:///C:/repository_chemtrust/sumrerng/application/libraries/mpdf-development/ttfontdata
+file:///C:/repository_chemtrust
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+049daaa7-ad44-504f-9c02-04fd02749403
+
+dejavusanscondensed.GDEFdata.php
+file
+
+
+
+add
+
+dejavusanscondensed.GPOSdata.php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.arab.DFLT.php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.arab.KUR .php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.arab.SND .php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.arab.URD .php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUB.nko .DFLT.php
+file
+
+
+
+add
+
+dejavusanscondensed.GSUBGPOStables.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensed.GSUBdata.php
+file
+
+
+
+add
+
+dejavusanscondensed.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensed.cw127.php
+file
+
+
+
+add
+
+dejavusanscondensed.gid.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensed.mtx.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GDEFdata.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GPOSdata.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.arab.DFLT.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.arab.KUR .php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.arab.SND .php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.arab.URD .php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUB.nko .DFLT.php
+file
+
+
+
+add
+
+dejavusanscondensedB.GSUBGPOStables.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedB.GSUBdata.php
+file
+
+
+
+add
+
+dejavusanscondensedB.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedB.gid.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedB.mtx.php
+file
+
+
+
+add
+
+dejavusanscondensedI.GDEFdata.php
+file
+
+
+
+add
+
+dejavusanscondensedI.GPOSdata.php
+file
+
+
+
+add
+
+dejavusanscondensedI.GSUBGPOStables.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedI.GSUBdata.php
+file
+
+
+
+add
+
+dejavusanscondensedI.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedI.gid.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavusanscondensedI.mtx.php
+file
+
+
+
+add
+
+dejavuserifcondensed.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavuserifcondensed.cw127.php
+file
+
+
+
+add
+
+dejavuserifcondensed.gid.dat
+file
+
+
+
+add
+
+dejavuserifcondensed.mtx.php
+file
+
+
+
+add
+
+dejavuserifcondensedB.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+dejavuserifcondensedB.cw127.php
+file
+
+
+
+add
+
+dejavuserifcondensedB.gid.dat
+file
+
+
+
+add
+
+dejavuserifcondensedB.mtx.php
+file
+
+
+
+add
+
+garuda.GDEFdata.php
+file
+
+
+
+add
+
+garuda.GPOSdata.php
+file
+
+
+
+add
+
+garuda.GSUBGPOStables.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garuda.GSUBdata.php
+file
+
+
+
+add
+
+garuda.cgm
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garuda.cw
+file
+
+
+
+add
+
+garuda.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garuda.cw127.php
+file
+
+
+
+add
+
+garuda.gid.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garuda.mtx.php
+file
+
+
+
+add
+
+garuda.ps.php
+file
+
+
+
+add
+
+garuda.ps.z
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garudaB.GDEFdata.php
+file
+
+
+
+add
+
+garudaB.GPOSdata.php
+file
+
+
+
+add
+
+garudaB.GSUBGPOStables.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garudaB.GSUBdata.php
+file
+
+
+
+add
+
+garudaB.cgm
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garudaB.cw
+file
+
+
+
+add
+
+garudaB.cw.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garudaB.cw127.php
+file
+
+
+
+add
+
+garudaB.gid.dat
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+garudaB.mtx.php
+file
+
+
+
+add
+
+garudaB.ps.php
+file
+
+
+
+add
+
+garudaB.ps.z
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+

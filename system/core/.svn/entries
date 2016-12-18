@@ -1,0 +1,161 @@
+10
+
+dir
+0
+file:///C:/repository_chemtrust/sumrerng/system/core
+file:///C:/repository_chemtrust
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+049daaa7-ad44-504f-9c02-04fd02749403
+
+Benchmark.php
+file
+
+
+
+add
+
+CodeIgniter.php
+file
+
+
+
+add
+
+Common.php
+file
+
+
+
+add
+
+Config.php
+file
+
+
+
+add
+
+Controller.php
+file
+
+
+
+add
+
+Exceptions.php
+file
+
+
+
+add
+
+Hooks.php
+file
+
+
+
+add
+
+Input.php
+file
+
+
+
+add
+
+Lang.php
+file
+
+
+
+add
+
+Loader.php
+file
+
+
+
+add
+
+Log.php
+file
+
+
+
+add
+
+Model.php
+file
+
+
+
+add
+
+Output.php
+file
+
+
+
+add
+
+Router.php
+file
+
+
+
+add
+
+Security.php
+file
+
+
+
+add
+
+URI.php
+file
+
+
+
+add
+
+Utf8.php
+file
+
+
+
+add
+
+compat
+dir
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+

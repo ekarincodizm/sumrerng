@@ -1,0 +1,133 @@
+10
+
+dir
+0
+file:///C:/repository_chemtrust/sumrerng/application/config
+file:///C:/repository_chemtrust
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+049daaa7-ad44-504f-9c02-04fd02749403
+
+autoload.php
+file
+
+
+
+add
+
+config.php
+file
+
+
+
+add
+
+constants.php
+file
+
+
+
+add
+
+database.php
+file
+
+
+
+add
+
+doctypes.php
+file
+
+
+
+add
+
+foreign_chars.php
+file
+
+
+
+add
+
+hooks.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+memcached.php
+file
+
+
+
+add
+
+migration.php
+file
+
+
+
+add
+
+mimes.php
+file
+
+
+
+add
+
+profiler.php
+file
+
+
+
+add
+
+routes.php
+file
+
+
+
+add
+
+smileys.php
+file
+
+
+
+add
+
+user_agents.php
+file
+
+
+
+add
+

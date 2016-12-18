@@ -1,0 +1,126 @@
+10
+
+dir
+0
+file:///C:/repository_chemtrust/sumrerng/system/language/english
+file:///C:/repository_chemtrust
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+049daaa7-ad44-504f-9c02-04fd02749403
+
+calendar_lang.php
+file
+
+
+
+add
+
+date_lang.php
+file
+
+
+
+add
+
+db_lang.php
+file
+
+
+
+add
+
+email_lang.php
+file
+
+
+
+add
+
+form_validation_lang.php
+file
+
+
+
+add
+
+ftp_lang.php
+file
+
+
+
+add
+
+imglib_lang.php
+file
+
+
+
+add
+
+index.html
+file
+
+
+
+add
+
+migration_lang.php
+file
+
+
+
+add
+
+number_lang.php
+file
+
+
+
+add
+
+pagination_lang.php
+file
+
+
+
+add
+
+profiler_lang.php
+file
+
+
+
+add
+
+unit_test_lang.php
+file
+
+
+
+add
+
+upload_lang.php
+file
+
+
+
+add
+
